@@ -9,7 +9,7 @@ I build practical **Java + SQL** applications (APIs + databases) and ship workin
 - Improving Git workflow, basic testing, and clean project documentation
 
 ## Tech & tools
-- **Languages:** Java, C, SQL  
+- **Languages:** Java,  C,  SQL  
 - **Backend:** (learning/using) Spring Boot, REST, validation  
 - **Tools:** Git, Linux  
 - **IDEs:** IntelliJ IDEA, Visual Studio  
