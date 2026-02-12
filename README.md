@@ -16,5 +16,5 @@ I build practical **Java + SQL** applications (APIs + databases) and ship workin
 - **Next:** Docker, CI basics, better testing
 
 ## Reach me
-- LinkedIn: www.linkedin.com/in/mykhailotitov
+- LinkedIn: www.linkedin.com/in/titovmykhailo
 - Email: titov.mykhailo.work@gmail.com
