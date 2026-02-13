@@ -13,7 +13,7 @@ I build practical **Java + SQL** applications (APIs + databases) and ship workin
 - **Backend:** (learning/using) Spring Boot, REST, validation  
 - **Tools:** Git, Linux  
 - **IDEs:** IntelliJ IDEA, Visual Studio  
-- **Next:** Docker, CI basics
+- **Next:** Docker, CI basics, better testing
 
 ## Reach me
 - LinkedIn: www.linkedin.com/in/titovmykhailo
