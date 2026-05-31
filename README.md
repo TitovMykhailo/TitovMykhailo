@@ -1,42 +1,35 @@
 ## Mykhailo Titov
 
-ICT student at STU FEI in Bratislava, focused on backend development, AI-assisted automation, databases, and practical software projects.
+ICT student at STU FEI in Bratislava, building Python-based AI agents, LLM evaluation tools, and automation pipelines for real business workflows.
+I work with OpenAI, Claude, and Azure APIs to create systems for document processing, text quality assessment, relevance scoring, and multi-step AI automation. Strong backend foundation in Java and SQL.
+What I'm working on now
 
-I build Java + SQL applications, work with REST-style services, and experiment with GPT-based tools, workflow automation, and structured data processing.  
-Currently improving my skills in backend development, AI tools, database work, testing, Git workflow, and technical documentation.
+Python-based AI agents with GPT-4o and Claude API for text processing and evaluation
+LLM output quality tools — structured scoring, duplicate detection, readability checks
+Automated pipelines with n8n connecting RSS, Telegram, email, and AI models
+University full-stack project using Java, REST APIs, and React
+Improving Git workflow, Docker, and project documentation
 
-## What I’m working on now
+AI & Automation
 
-- Backend-first Java projects with SQL databases
-- University-related full-stack web project using Java, REST APIs, and React
-- AI-assisted automation workflows using GPT-based tools
-- Basic data validation, reporting support, and structured data processing
-- Improving Git workflow, testing, and clean project documentation
+Azure OpenAI, OpenAI GPT-4o / GPT-4o mini, Claude API, Gemini, Perplexity
+Prompt engineering, LLM output evaluation, and AI workflow design
+Automation with n8n, Make, and Zapier
+Interest in document AI, internal automation, and reliable AI products
 
-## AI & Automation
+Tech & Tools
+Languages: Python, Java, C, SQL
+Backend: Spring Boot, REST APIs, validation, authentication basics
+Databases: MySQL, Oracle DB basics, SQL queries
+Frontend: React basics, JavaScript basics
+Tools: Git, Linux, Docker basics, Google Sheets, Notion
+IDEs: IntelliJ IDEA, Visual Studio Code
+Next goals
 
-- ChatGPT, Claude, Gemini, Perplexity, GPT-based tools
-- Basic understanding of Microsoft Copilot and Copilot Studio concepts
-- Prompt design, testing, and evaluation of AI outputs
-- Workflow automation concepts with n8n, Make, and Zapier
-- Interest in AI chatbots, internal automation, and data-supported reporting
-
-## Tech & Tools
-
-**Languages:** Java, C, SQL, basic Python  
-**Backend:** Spring Boot, REST APIs, validation, authentication basics  
-**Databases:** MySQL, Oracle DB basics, SQL queries, data validation  
-**Frontend:** React basics, JavaScript basics  
-**Tools:** Git, Linux, Docker basics, Google Sheets, Notion  
-**IDEs:** IntelliJ IDEA, Visual Studio Code  
-
-## Next goals
-
-- Build stronger backend and automation projects
-- Learn Microsoft Copilot Studio and Power Platform basics
-- Improve testing, Docker, and CI/CD fundamentals
-- Create better project documentation and GitHub repositories
-
+Deploy and document AI projects publicly on GitHub
+Deepen MLOps and model monitoring fundamentals
+Build stronger backend and automation projects
+Improve testing, Docker, and CI/CD fundamentals
 ## Reach me
 
 LinkedIn: www.linkedin.com/in/titovmykhailo  
